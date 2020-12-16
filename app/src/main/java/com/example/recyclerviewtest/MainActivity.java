@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mRecyclerView = findViewById(R.id.recycler_list);
+        /*mRecyclerView = findViewById(R.id.recycler_list);
         mModelList= new ArrayList<>();
         Model model;
         for (int i = 0; i <20 ; i++) {
@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
                 }
             }
-        });
+        });*/
 
     }
 }
